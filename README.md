@@ -64,10 +64,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xr3azn&layout=compact&hide_border=true&title_color=22C55E&text_color=CBD5E1&bg_color=0F172A" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Xr3azn&bg_color=0F172A&color=CBD5E1&line=22C55E&point=1D4ED8&area=true&hide_border=true" alt="GitHub activity graph" />
-</div>
-
 ## Contact
 
 <div align="center">
