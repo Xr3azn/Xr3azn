@@ -68,18 +68,23 @@
   <img width="495" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xr3azn&card_width=495&layout=compact&hide_border=true&title_color=22C55E&text_color=CBD5E1&bg_color=0F172A" alt="Top languages" />
 </div>
 
-## Contact
+Contact
 
 <div align="center">
-  <a href="https://xr3azn.com">Website</a>
-  ·
-  <a href="https://github.com/Xr3azn">GitHub</a>
-  ·
-  <a href="https://instagram.com/xr3azn_">Instagram</a>
-  ·
-  <a href="https://linkedin.com/in/xr3azn">LinkedIn</a>
+<a href="https://xr3azn.com">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://github.com/Xr3azn">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://instagram.com/xr3azn_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://linkedin.com/in/xr3azn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </div>
 
 <br />
 
-<div align="center">
+</div>
