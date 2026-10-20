@@ -60,8 +60,8 @@
 ## Metrics and Activity
 
 <div align="center">
-  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Xr3azn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=CBD5E1&bg_color=0F172A" alt="GitHub stats" />
-  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xr3azn&layout=compact&hide_border=true&title_color=22C55E&text_color=CBD5E1&bg_color=0F172A" alt="Top languages" />
+  <img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=Xr3azn&card_width=495&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=CBD5E1&bg_color=0F172A" alt="GitHub stats" />
+  <img width="495" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xr3azn&card_width=495&layout=compact&hide_border=true&title_color=22C55E&text_color=CBD5E1&bg_color=0F172A" alt="Top languages" />
 </div>
 
 ## Contact
