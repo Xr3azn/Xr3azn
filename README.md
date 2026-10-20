@@ -25,13 +25,9 @@
 
 ## About
 
-안녕하세요? 저는 대한민국에서 활동하고 있는 학생 Junior Network Engineer 김건우 입니다!
+안녕하세요. 대한민국의 학생이자 Junior Network Engineer 김건우입니다.
 
-저는 네트워크와 백엔드를 중심으로 실제로 사용할 수 있는 프로젝트를 만들어보고, 직접 현장에 나가 유지보수및 장비를 운용하고 있습니다.
-
-또한, 자랑스러운 우리 TeamWicked 와 WickedHost의 소속되어, CTO로 인프라 유지보수를 맡고있습니다.
-
-계속 지켜봐주신다면 기술을 통해 인터넷 세상을 더욱 이롭고 안전하게 만드는 엔지니어로 성장하겠습니다!
+네트워크와 백엔드를 중심으로 실제로 사용할 수 있는 프로젝트를 만들고, 자동화와 인프라를 직접 실험하며 배우고 있습니다. TeamWicked에서 함께 만들고 운영하는 경험도 쌓고 있습니다.
 
 ## Tech Stack
 
@@ -64,8 +60,8 @@
 ## Metrics and Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xr3azn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=CBD5E1&bg_color=0F172A" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xr3azn&layout=compact&hide_border=true&title_color=22C55E&text_color=CBD5E1&bg_color=0F172A" alt="Top languages" />
+  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Xr3azn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=CBD5E1&bg_color=0F172A" alt="GitHub stats" />
+  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xr3azn&layout=compact&hide_border=true&title_color=22C55E&text_color=CBD5E1&bg_color=0F172A" alt="Top languages" />
 </div>
 
 ## Contact
